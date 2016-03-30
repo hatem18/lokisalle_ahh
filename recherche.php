@@ -79,3 +79,5 @@ include_once 'inc/header.inc.php'; // com
 
 	<?php
 include_once 'inc/footer.inc.php';
+
+// Petite modif
