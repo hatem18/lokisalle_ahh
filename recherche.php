@@ -19,7 +19,7 @@ WHERE salle.ville LIKE :mot_cle
 	$infos_affichage = $affichage->fetchAll(PDO::FETCH_ASSOC);
 	
 }
-include_once 'inc/header.inc.php';
+include_once 'inc/header.inc.php'; // com
 ?>
     <h1>Recherche d'une location de salle pour réservation</h1>
     <div id="bando_recherche">
